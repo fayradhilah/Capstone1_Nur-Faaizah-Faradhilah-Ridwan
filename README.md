@@ -33,3 +33,11 @@ Terdapat sepuluh kolom atribut yang terdapat pada Yellow Pages:
 -   **Nomor Telepon**
 
 Dua dari sepuluh atribut yang telah disebutkan, yaitu **ID** dan **Nomor Telepon**, merupakan kode unik yang digunakan untuk membedakan setiap data dalam sistem.
+
+# Flow Chart
+![My Online Image](FlowChart/FlowChart_page-0001.png)
+![My Online Image](FlowChart/FlowChart_page-0002.png)
+![My Online Image](FlowChart/FlowChart_page-0003.png)
+![My Online Image](FlowChart/FlowChart_page-0004.png)
+![My Online Image](FlowChart/FlowChart_page-0005.png)
+![My Online Image](FlowChart/FlowChart_page-0006.png)
